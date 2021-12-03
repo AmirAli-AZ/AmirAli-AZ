@@ -9,3 +9,6 @@ But I work mostly on the [Weather](https://github.com/AmirAli-AZ/Weather) projec
 #### 💬 Feedback
 
 Say Hello
+
+---
+[![AmirAli-AZ GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli-AZ)](https://github.com/anuraghazra/github-readme-stats)
