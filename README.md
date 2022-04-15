@@ -10,5 +10,10 @@ But I work mostly on the [Dream Music](https://github.com/AmirAli-AZ/Dream_Music
 
 Say Hello
 
+### Most used languages
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirAli-AZ&layout=compact&bg_color=00000000"/>
+
 ---
-[![AmirAli-AZ GitHub stats](https://github-readme-stats.vercel.app/api?username=AmirAli-AZ)](https://github.com/anuraghazra/github-readme-stats)
+
+<img src="https://github-readme-stats.vercel.app/api?username=AmirAli-AZ&show_icons=true&bg_color=00000000"/>
