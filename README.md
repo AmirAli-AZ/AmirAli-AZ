@@ -10,10 +10,10 @@ But I work mostly on the [Dream Music](https://github.com/AmirAli-AZ/Dream_Music
 
 Say Hello
 
-### Most used languages
+### Languages and tools
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=AmirAli-AZ&layout=compact&bg_color=00000000"/>
+<img src="icons/intellij-icon.svg" width=40 height=40 alt="Intellij Idea"/> <img src="icons/java-icon.svg" width=40 height=40 alt="Java"/> <img src="icons/kotlinlang-icon.svg" width=40 height=40 alt="Kotlin"/> <img src="icons/JavaFX_Logo.png" width=100 alt="JavaFX"/> <img src="icons/mongodb-icon.svg" width=40 height=40 alt="MongoDB"/> <img src="icons/sqlite-icon.svg" width=40 height=40 alt="SQLite"/> <img src="icons/android-icon.svg" width=40 height=40 alt="Android"/> 
 
----
-
-<img src="https://github-readme-stats.vercel.app/api?username=AmirAli-AZ&show_icons=true&bg_color=00000000"/>
+<p align=center>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirAli-AZ&show_icons=true&bg_color=00000000"/>
+<p/>
