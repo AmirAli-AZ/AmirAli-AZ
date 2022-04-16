@@ -10,7 +10,7 @@ But I work mostly on the [Dream Music](https://github.com/AmirAli-AZ/Dream_Music
 
 Say Hello
 
-### what i use
+### What i use
 
 <img src="icons/intellij-icon.svg" width=40 height=40 alt="Intellij Idea"/> <img src="icons/java-icon.svg" width=40 height=40 alt="Java"/> <img src="icons/kotlinlang-icon.svg" width=40 height=40 alt="Kotlin"/> <img src="icons/JavaFX_Logo.png" width=100 alt="JavaFX"/> <img src="icons/mongodb-icon.svg" width=40 height=40 alt="MongoDB"/> <img src="icons/sqlite-icon.svg" width=40 height=40 alt="SQLite"/> <img src="icons/android-icon.svg" width=40 height=40 alt="Android"/> <img src="icons/linux-icon.svg" width=40 height=40 alt="Linux"/> <img src="icons/windows-icon.svg" width=40 height=40 alt="Windows"/>  
 
