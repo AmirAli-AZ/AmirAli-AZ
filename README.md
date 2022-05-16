@@ -4,7 +4,6 @@ And I publish what I make on GitHub and on my [Telegram channel](https://t.me/Ex
 
 #### 🌱 What am I working on?
 I work whenever an idea comes to my mind, anything
-But I work mostly on the [Dream Music](https://github.com/AmirAli-AZ/Dream_Music) project
 
 #### 💬 Feedback
 
