@@ -17,7 +17,7 @@ Say Hello
 
 ### What i use
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align=center>
 
   <img src="icons/intellij-icon.svg" width=40 height=40 alt="Intellij Idea"/>
   <img src="icons/vscode-icon.svg" width=40 height=40 alt="VSCode"/>
@@ -34,6 +34,6 @@ Say Hello
 
 <br>
 
-<p style="text-align: center;">
+<div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=AmirAli-AZ&show_icons=true&bg_color=00000000"/>
-<p/>
+</div>
