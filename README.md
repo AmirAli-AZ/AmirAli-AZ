@@ -1,21 +1,22 @@
 ### Hi there 👋
-I am 15 years old and I mostly use Java
+I am 15 years old and I mostly use java
 and I publish what I make on GitHub and on my [Telegram channel](https://t.me/Explorer_browser)
 
 #### 🌱 What am I working on?
+
 I work whenever an idea comes to my mind, anything
 <br>
 but for now, I'm mostly working on the [FXDialogs](https://github.com/AmirAli-AZ/FXDialogs) project.
 <br>
 FXDialogs is a java library to create dialogs for javafx applications.
 <br>
-Also this library has another things like custom notification builder, splash screen builder and etc...
+Also this library has other things like custom notification builder, splash screen builder and etc...
 
 #### 💬 Feedback
 
 Say Hello
 
-### What i use
+### What I use
 
 <div align=center>
 
@@ -29,11 +30,8 @@ Say Hello
   <img src="icons/android-icon.svg" width=40 height=40 alt="Android"/>
   <img src="icons/linux-icon.svg" width=40 height=40 alt="Linux"/>
   <img src="icons/windows-icon.svg" width=40 height=40 alt="Windows"/>
-
 </div>
-
 <br>
-
 <div align=center>
   <img src="https://github-readme-stats.vercel.app/api?username=AmirAli-AZ&show_icons=true&bg_color=00000000"/>
 </div>
