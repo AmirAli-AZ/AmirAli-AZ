@@ -8,7 +8,7 @@ I work whenever an idea comes to my mind, anything
 <br>
 but for now, I'm mostly working on the [FXDialogs](https://github.com/AmirAli-AZ/FXDialogs) project.
 <br>
-FXDialogs is a java library to create dialogs for javafx applications.
+FXDialogs is a Java library to create dialogs for Javafx applications.
 <br>
 Also this library has other things like custom notification builder, splash screen builder and etc...
 
