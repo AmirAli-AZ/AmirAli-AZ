@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am 15 years old and I mostly use java
+I am 15 years old and I mostly use Java
 and I publish what I make on GitHub and on my [Telegram channel](https://t.me/Explorer_browser)
 
 #### 🌱 What am I working on?
