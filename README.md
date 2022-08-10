@@ -33,6 +33,6 @@ Say Hello
 </div>
 <hr>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirAli-AZ&show_icons=true&bg_color=0000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAli-AZ&layout=compact&bg_color=0000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirAli-AZ&show_icons=true&bg_color=00000000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAli-AZ&layout=compact&bg_color=00000000"/>
 </div>
