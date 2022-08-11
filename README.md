@@ -17,7 +17,7 @@ Say Hello
 
 <div align=center>
   <img src="icons/intellij-icon.svg" width=40 height=40 alt="Intellij Idea"/>
-  <img src="icons/vscode-icon.svg" width=40 height=40 alt="VSCode"/>
+  <img src="icons/atom-icon.svg" width=40 height=40 alt="Atom"/>
   <img src="icons/java-icon.svg" width=40 height=40 alt="Java"/>
   <img src="icons/JavaFX_Logo.png" height=40 alt="JavaFX">
   <img src="icons/kotlinlang-icon.svg" width=40 height=40 alt="Kotlin"/>
