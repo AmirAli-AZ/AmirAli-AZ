@@ -7,11 +7,7 @@ I use manjaro btw.
 
 I work whenever an idea comes to my mind, anything
 <br>
-but for now, I'm mostly working on the [FXDialogs](https://github.com/AmirAli-AZ/FXDialogs) project.
-<br>
-FXDialogs is a Java library to create dialogs for Javafx applications.
-<br>
-Also this library has other things like custom notification builder, splash screen builder and etc...
+but for now, I'm mostly working on the [CoreMusic](https://github.com/AmirAli-AZ/CoreMusic) project.
 
 #### 💬 Feedback
 
