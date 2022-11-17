@@ -16,19 +16,19 @@ Say Hello
 ### What I use
 
 <div align=center>
-  <img src="icons/intellij-icon.svg" width=40 height=40 alt="Intellij Idea"/>
-  <img src="icons/atom-icon.svg" width=40 height=40 alt="Atom"/>
-  <img src="icons/java-icon.svg" width=40 height=40 alt="Java"/>
+  <img src="icons/intellij-icon.svg" width=40 height=40 alt="Intellij Idea">
+  <img src="icons/atom-icon.svg" width=40 height=40 alt="Atom">
+  <img src="icons/java-icon.svg" width=40 height=40 alt="Java">
   <img src="icons/JavaFX_Logo.png" height=40 alt="JavaFX">
-  <img src="icons/kotlinlang-icon.svg" width=40 height=40 alt="Kotlin"/>
-  <img src="icons/mongodb-icon.svg" width=40 height=40 alt="MongoDB"/>
-  <img src="icons/sqlite-icon.svg" width=40 height=40 alt="SQLite"/>
-  <img src="icons/android-icon.svg" width=40 height=40 alt="Android"/>
-  <img src="icons/linux-icon.svg" width=40 height=40 alt="Linux"/>
-  <img src="icons/windows-icon.svg" width=40 height=40 alt="Windows"/>
+  <img src="icons/kotlinlang-icon.svg" width=40 height=40 alt="Kotlin">
+  <img src="icons/mongodb-icon.svg" width=40 height=40 alt="MongoDB">
+  <img src="icons/sqlite-icon.svg" width=40 height=40 alt="SQLite">
+  <img src="icons/android-icon.svg" width=40 height=40 alt="Android">
+  <img src="icons/linux-icon.svg" width=40 height=40 alt="Linux">
+  <img src="icons/windows-icon.svg" width=40 height=40 alt="Windows">
 </div>
 <hr>
 <div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirAli-AZ&show_icons=true&bg_color=00000000"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAli-AZ&layout=compact&bg_color=00000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AmirAli-AZ&show_icons=true&bg_color=00000000">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAli-AZ&layout=compact&bg_color=00000000">
 </div>
