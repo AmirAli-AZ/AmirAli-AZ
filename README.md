@@ -6,8 +6,6 @@ I use manjaro btw.
 #### 🌱 What am I working on?
 
 I work whenever an idea comes to my mind, anything.
-<br>
-but for now, I'm mostly working on the [CoreMusic](https://github.com/AmirAli-AZ/CoreMusic) project.
 
 #### 💬 Feedback
 
