@@ -26,8 +26,3 @@ Say Hello
   <img src="icons/linux-icon.svg" width=40 height=40 alt="Linux">
   <img src="icons/windows-icon.svg" width=40 height=40 alt="Windows">
 </div>
-<hr>
-<div align=center>
-  <img src="https://github-readme-stats.vercel.app/api?username=AmirAli-AZ&show_icons=true&bg_color=00000000">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirAli-AZ&layout=compact&bg_color=00000000">
-</div>
