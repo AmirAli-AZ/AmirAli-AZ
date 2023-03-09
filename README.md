@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am 16 years old and I mostly use Java and I publish what I make on GitHub and on my [Telegram channel](https://t.me/Explorer_browser).
 <br>
-I use manjaro btw.
+I use endeavour-os btw.
 
 #### 🌱 What am I working on?
 
