@@ -5,7 +5,7 @@ I use endeavour-os btw.
 
 #### 🌱 What am I working on?
 
-I work whenever an idea comes to my mind, anything.
+I'm currently working on devs4devs backend
 
 #### 💬 Feedback
 
