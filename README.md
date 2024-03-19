@@ -1,11 +1,11 @@
 ### Hi there 👋
-I am 16 years old and I mostly use Java and I publish what I make on GitHub and on my [Telegram channel](https://t.me/Explorer_browser).
+I am 17 years old and I mostly use Java and I publish what I make on GitHub and on my [Telegram channel](https://t.me/Explorer_browser).
 <br>
 I use endeavour-os btw.
 
-#### 🌱 What am I working on?
+#### 🌱 What am I doing?
 
-I'm currently working on devs4devs backend
+I'm currently learning math and calculus and love it!
 
 #### 💬 Feedback
 
