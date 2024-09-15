@@ -21,6 +21,7 @@ Say Hello
   <img src="icons/java-icon.svg" width=40 height=40 alt="Java">
   <img src="icons/JavaFX_Logo.png" height=40 alt="JavaFX">
   <img src="icons/kotlinlang-icon.svg" width=40 height=40 alt="Kotlin">
+  <img src="icons/spring-boot-icon.svg" width=40 height=40 alt="SpringBoot">
   <img src="icons/mongodb-icon.svg" width=40 height=40 alt="MongoDB">
   <img src="icons/mysql-icon.svg" width=40 height=40 alt="MySQL">
   <img src="icons/android-icon.svg" width=40 height=40 alt="Android">
