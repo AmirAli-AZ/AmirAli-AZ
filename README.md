@@ -22,7 +22,7 @@ Say Hello
   <img src="icons/JavaFX_Logo.png" height=40 alt="JavaFX">
   <img src="icons/kotlinlang-icon.svg" width=40 height=40 alt="Kotlin">
   <img src="icons/mongodb-icon.svg" width=40 height=40 alt="MongoDB">
-  <img src="icons/mysql-logo.svg" width=50 height=40 alt="MySQL">
+  <img src="icons/mysql-logo.svg" width=40 height=40 alt="MySQL">
   <img src="icons/android-icon.svg" width=40 height=40 alt="Android">
   <img src="icons/linux-icon.svg" width=40 height=40 alt="Linux">
   <img src="icons/windows-icon.svg" width=40 height=40 alt="Windows">
