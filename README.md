@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am 17 years old, and I'm a java developer for almost 5 years.
+I am 18 years old, and I'm a java developer for almost 5 years.
 
 I love making applications related to math concepts cause I'm a math student too 🙃
 
